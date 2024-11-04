@@ -209,3 +209,16 @@ The best way to contact the developers is on Discord.
 [wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
 [nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
 [v2branch]: https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor 'v2 branch'
+
+
+
+ {
+                    "id": "net.minecraftforge:forge:1.16.5-36.1.0",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 4450992,
+                        "MD5": "891b41a7eaa7b1d8e0059123979afafa",
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-universal.jar"
+                    }
+                }
