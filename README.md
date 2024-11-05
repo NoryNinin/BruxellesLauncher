@@ -6,10 +6,11 @@
 
 [<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
-<p align="center">Launcher Minecraft crée pour re crée la ville de Bruxelles en Belgique, reproduire cette capital a l'échelle 1:1 sur Minecraft</p>
+<p align="center">###🌍 Launcher Minecraft — Recréez Bruxelles dans Minecraft !
+Bienvenue dans le Launcher Minecraft conçu pour un projet unique et ambitieux : reproduire la capitale belge, Bruxelles, à l’échelle 1:1 ! 🏙️🇧🇪 Plongez dans un monde où chaque rue, chaque monument et chaque quartier de Bruxelles prend vie dans Minecraft, pour une expérience immersive et ultra-réaliste. 🎮🌆</p>
 
 ![Screenshot 1](https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/Capture%20d'%C3%A9cran%202024-11-05%20094447.png?raw=true)
-![Screenshot 2](https://imgur.com/a/iGd4E7g)
+![Screenshot 2](https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/Capture%20d'%C3%A9cran%202024-11-05%20094512.png?raw=true)
 
 Voici une version traduite en français, avec les liens vers Discord, Twitter, et le site web ajoutés.
 
