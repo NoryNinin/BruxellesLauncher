@@ -41,7 +41,7 @@ Ce n'est pas une liste exhaustive. Téléchargez et installez le launcher pour d
 
 ## Téléchargements
 
-Vous pouvez télécharger le launcher depuis [GitHub Releases](https://github.com/NoryNinin/BruxellesLauncher)
+Vous pouvez télécharger le launcher depuis [GitHub Releases](https://github.com/NoryNinin/BruxellesLauncher/releases)
 
 ---
 
