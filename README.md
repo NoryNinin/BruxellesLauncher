@@ -49,6 +49,6 @@ Vous pouvez télécharger le launcher depuis [GitHub Releases](https://github.co
 
 ### 📱 Nous suivre
 
-* [Discord]([https://discord.gg/votreinvite](https://discord.gg/sGvknfGKMk))
+* [Discord](https://discord.gg/sGvknfGKMk)
 * [Twitter](https://x.com/BuildBruxelles)
 * [Site Web](https://rebuildbruxelle.free.nf)
