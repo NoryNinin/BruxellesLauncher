@@ -2,10 +2,6 @@
 
 <h1 align="center">Bruxelles Build</h1>
 
-<em><h5 align="center">(formerly Electron Launcher)</h5></em>
-
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
-
 ## 🌍 Launcher Minecraft — Recréez Bruxelles dans Minecraft !
 
 <p align="center">Bienvenue dans le Launcher Minecraft conçu pour un projet unique et ambitieux : reproduire la capitale belge, Bruxelles, à l’échelle 1:1 ! 🏙️🇧🇪 Plongez dans un monde où chaque rue, chaque monument et chaque quartier de Bruxelles prend vie dans Minecraft, pour une expérience immersive et ultra-réaliste. 🎮🌆</p>
