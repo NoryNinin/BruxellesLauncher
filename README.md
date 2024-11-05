@@ -8,7 +8,7 @@
 
 <p align="center">Launcher Minecraft crée pour re crée la ville de Bruxelles en Belgique, reproduire cette capital a l'échelle 1:1 sur Minecraft</p>
 
-![Screenshot 1](https://imgur.com/a/gON9b3d)
+![Screenshot 1](https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/Capture%20d'%C3%A9cran%202024-11-05%20094447.png?raw=true)
 ![Screenshot 2](https://imgur.com/a/iGd4E7g)
 
 Voici une version traduite en français, avec les liens vers Discord, Twitter, et le site web ajoutés.
