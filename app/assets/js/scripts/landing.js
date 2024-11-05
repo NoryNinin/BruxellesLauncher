@@ -441,9 +441,12 @@ let proc
 let hasRPC = false
 // Joined server regex
 // Change this if your server uses something different.
-const GAME_JOINED_REGEX = /\[.+\]: Sound engine started/
-const GAME_LAUNCH_REGEX = /^\[.+\]: (?:MinecraftForge .+ Initialized|ModLauncher .+ starting: .+|Loading Minecraft .+ with Fabric Loader .+)$/
-const MIN_LINGER = 5000
+// Regex pour détecter le démarrage du jeu Vanilla
+const GAME_JOINED_REGEX = /\[.+\]: (?:Sound engine started|Started the game)/; // Ajout d'une alternative pour le démarrage du jeu
+const GAME_LAUNCH_REGEX = /^\[.+\]: Loading Minecraft/; // Simplifié pour se concentrer sur le démarrage du jeu
+
+const MIN_LINGER = 5000; // Durée minimale (en millisecondes) à attendre après le démarrage
+
 
 async function dlAsync(login = true) {
 
