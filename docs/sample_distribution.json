@@ -1,42 +1,93 @@
 {
     "version": "1.0.0",
+    "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
     "discord": {
-        "clientId": "385581240906022916",
-        "smallImageText": "Bruxelles ReBuild",
-        "smallImageKey": "seal-circle"
+      "clientId": "1086936373057040395",
+      "smallImageText": "Bruxelles ReBuild",
+      "smallImageKey": "seal-circle"
     },
-    "java": {
-        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
-    },
-    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
-        {
-            "id": "bruxelles",
-            "name": "Bruxelles ReBuild",
-            "description": "Connectez-vous pour explorer la ville de Bruxelles avec des mods.",
-            "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
-            "version": "3.9.4",
-            "address": "147.185.221.20:46813",
-            "minecraftVersion": "1.16.5",
-            "discord": {
-                "shortId": "Bruxelles",
-                "largeImageText": "Serveur Bruxelles",
-                "largeImageKey": "bruxelles-server"
-            },
-            "mainServer": true,
-            "autoconnect": true,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.16.5-36.1.0",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 4450992,
-                        "MD5": "votreMD5",
-                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-universal.jar"
-                    }
-                }
-            ]
-        }
+      {
+        "id": "bruxelles",
+        "name": "[BUILD] | Bruxelles",
+        "description": "Connectez-vous pour explorer la ville de Bruxelles sur Minecraft en immersion totale.",
+        "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
+        "version": "1.0.0",
+        "address": "91.197.6.54:26511",
+        "minecraftVersion": "1.19.4",
+        "discord": {
+          "shortId": "bruxelles",
+          "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
+          "largeImageText": "forge-vanilla"
+        },
+        "mainServer": true,
+        "autoconnect": true,
+        "modules": [
+          {
+            "id": "net.minecraftforge:lowcodelanguage:1.19.4-45.0.9",
+            "name": "Minecraft Forge (lowcodelanguage)",
+            "type": "ForgeHosted",
+            "classpath": true,
+            "artifact": {
+              "size": 7378,
+              "MD5": "567726c42a1312962ffd96af646f227d",
+              "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.19.4-45.0.9/lowcodelanguage-1.19.4-45.0.9.jar"
+            }
+          },
+          {
+            "id": "net.minecraftforge:forge:1.19.4-45.0.9:universal",
+            "name": "Minecraft Forge (universal jar)",
+            "type": "Library",
+            "classpath": false,
+            "artifact": {
+              "size": 2654813,
+              "MD5": "75086169e9f5f6990cd399ae352590da",
+              "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/forge/1.19.4-45.0.9/forge-1.19.4-45.0.9-universal.jar"
+            }
+          },
+          {
+            "id": "net.minecraftforge:forge:1.19.4-45.0.9:client",
+            "name": "Minecraft Forge (client jar)",
+            "type": "Library",
+            "classpath": false,
+            "artifact": {
+              "size": 5416831,
+              "MD5": "db21cc95ee603f0dc4e7bce8af5d1f5c",
+              "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/forge/1.19.4-45.0.9/forge-1.19.4-45.0.9-client.jar"
+            }
+          },
+          {
+            "id": "net.minecraft:client:1.19.4-20230314.122934:srg",
+            "name": "Minecraft Forge (client srg)",
+            "type": "Library",
+            "classpath": false,
+            "artifact": {
+              "size": 18578667,
+              "MD5": "500a7127781d84a24d65f110479538f3",
+              "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar"
+            }
+          },
+          {
+            "id": "cpw.mods:securejarhandler:2.1.6",
+            "name": "Minecraft Forge (securejarhandler)",
+            "type": "Library",
+            "artifact": {
+              "size": 87783,
+              "MD5": "8a4e7e2770d7147d7551d1f3ad835baa",
+              "url": "https://helios-files.geekcorner.eu.org/repo/lib/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar"
+            }
+          },
+          {
+            "id": "org.ow2.asm:asm:9.3",
+            "name": "Minecraft Forge (asm)",
+            "type": "Library",
+            "artifact": {
+              "size": 122176,
+              "MD5": "e1c3b96035117ab516ffe0de9bd696e0",
+              "url": "https://helios-files.geekcorner.eu.org/repo/lib/org/ow2/asm/asm/9.3/asm-9.3.jar"
+            }
+          }
+        ]
+      }
     ]
-}
+  }
