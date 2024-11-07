@@ -1,6 +1,5 @@
 {
     "version": "1.0.0",
-    "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
     "discord": {
       "clientId": "1086936373057040395",
       "smallImageText": "Bruxelles ReBuild",
