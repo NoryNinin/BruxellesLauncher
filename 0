@@ -7,6 +7,22 @@
     "smallImageKey": "seal-circle"
    },
   "servers": [
+    {
+      "id": "Bruxelles",
+      "name": "[BUILD] | Bruxelles",
+      "description": "Connectez-vous pour explorer la ville de Bruxelles sur Minecraft en immersion totale.",
+      "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
+      "version": "1.0.0",
+      "address": "147.185.221.20:46813",
+      "minecraftVersion": "1.20",
+      "discord": {
+        "shortId": "Bruxelles",
+        "largeImageText": "Serveur Bruxelles",
+        "largeImageKey": "bruxelles-server"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
             {
               "id": "cpw.mods:securejarhandler:2.1.6",
               "name": "Minecraft Forge (securejarhandler)",
@@ -289,25 +305,7 @@
             "MD5": "e752096b159035a3ffaf396fb111b837",
             "path": "hi.txt"
           }
-        }
-      ]
-    },
-    {
-      "id": "Bruxelles",
-      "name": "[BUILD] | Bruxelles",
-      "description": "Connectez-vous pour explorer la ville de Bruxelles sur Minecraft en immersion totale.",
-      "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
-      "version": "1.0.0",
-      "address": "147.185.221.20:46813",
-      "minecraftVersion": "1.20",
-      "discord": {
-        "shortId": "Bruxelles",
-        "largeImageText": "Serveur Bruxelles",
-        "largeImageKey": "bruxelles-server"
-      },
-      "mainServer": true,
-      "autoconnect": false,
-      "modules": [
+        },
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20-46.0.2",
           "name": "Minecraft Forge (lowcodelanguage)",
