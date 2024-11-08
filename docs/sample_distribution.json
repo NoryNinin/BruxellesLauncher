@@ -32,7 +32,7 @@
           "artifact": {
             "size": 1290933,
             "MD5": "605676825fcd3098351691214ad86cab",
-            "url": "https://github.com/NoryNinin/download/releases/download/download1/lwjgl-3.2.2-javadoc.jar"
+            "url": "https://github.com/NoryNinin/download/releases/download/download1/lwjgl-3.2.2-javadoc.jar?raw=true"
           }
         },
         {
@@ -42,7 +42,7 @@
           "artifact": {
             "size": 17547153,
             "MD5": "a57b9157ff3bb308208e79ef9e19187e",
-            "url": "https://github.com/NoryNinin/download/releases/download/1.16.5/1.16.5.jar"
+            "url": "https://github.com/NoryNinin/download/releases/download/1.16.5/1.16.5.jar?raw=true"
           }
         },
         {
@@ -52,7 +52,7 @@
           "artifact": {
             "size": 37962360,
             "MD5": "c10b74188efc4ed6960db49c9ade50ce",
-            "url": "https://github.com/NoryNinin/download/releases/download/download/server.jar"
+            "url": "https://github.com/NoryNinin/download/releases/download/download/server.jar?raw=true"
           }
         }
       ]
